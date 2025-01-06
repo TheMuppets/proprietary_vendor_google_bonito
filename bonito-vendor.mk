@@ -1017,21 +1017,12 @@ PRODUCT_PACKAGES += \
     sound_trigger.primary.sdm710 \
     vendor.qti.hardware.qteeconnector@1.0-impl \
     vulkan.adreno \
-    libAlacSwDec \
-    libApeSwDec \
     libC2D2 \
     libCB \
-    libFlacSwDec \
     libGPQTEEC_vendor \
     libGPTEE_vendor \
     libGPreqcancel \
     libGPreqcancel_svc \
-    libMpeg4SwEncoder \
-    libOmxAlacDecSw \
-    libOmxAmrwbplusDec \
-    libOmxApeDecSw \
-    libOmxEvrcDec \
-    libOmxQcelp13Dec \
     libOpenCL-pixel \
     libOpenCL \
     libQSEEComAPI \
@@ -1156,11 +1147,9 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.wigig.netperftuner@1.0 \
     vendor.qti.power.pasrmanager@1.0 \
     vendor.qti.voiceprint@1.0 \
-    libOmxDsdDec \
     libadm \
     libadpcmdec \
     libcppf \
-    libdsd2pcm \
     libfastcrc \
     libfastcvdsp_stub \
     libfastcvopt \
