@@ -1019,7 +1019,6 @@ PRODUCT_PACKAGES += \
     libOpenCL \
     libQSEEComAPI \
     libQTEEConnector_vendor \
-    libRSDriver_adreno \
     libSecureUILib \
     libStDrvInt \
     libSubSystemShutdown \
@@ -1090,8 +1089,6 @@ PRODUCT_PACKAGES += \
     libqti-utils \
     libqtikeymaster4 \
     librpmb \
-    librs_adreno \
-    librs_adreno_sha1 \
     libsdedrm \
     libsdm-color \
     libsdm-diag \
